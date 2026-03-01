@@ -30,7 +30,7 @@ Only one LED channel is ever active at a time to minimise peak current draw.
 
 ## The enclosure
 
-The housing is a 3D printed miniature wheelie bin. All parts are included in this repo.
+The housing is a 3D printed miniature wheelie bin. All parts are included in this repo. You will need some 2mm brass rod for the lid hinge and wheels.
 
 ### Parts
 
@@ -48,11 +48,11 @@ The housing is a 3D printed miniature wheelie bin. All parts are included in thi
 
 ### Assembly
 
-1. Mount the XIAO ESP32-S3 onto the yellow base plate
-2. Attach the 3-LED strips to either side of the F-shaped baffle — one strip behind the GREEN lettering, one behind BLACK
-3. Seat the F-shaped assembly inside the bin body; the baffle prevents light bleed between channels
-4. Mount the 10-LED alert strip horizontally at the top of the bin, facing forward — it seals against the lid when closed and glows around the lid edge
-5. Snap the translucent GREEN and BLACK lettering panels into the front of the bin
+1. Mount the XIAO ESP32-S3 onto the yellow base plate. You can use a little hot glue or double sided tape. Make sure you've wired +Ve and -Ve to 5v and the three data pins for the addressable LED's
+2. Attach the 3-LED strips to the front side of the F-shaped baffle — one strip behind the GREEN lettering, one behind BLACK
+3. Snap the translucent GREEN and BLACK lettering panels into the front of the bin
+4. Seat the F-shaped assembly inside the bin body, theres a small retainer on the walls to snap it into place
+5. Mount the 10-LED alert strip horizontally at the top of the bin light panel, facing outwards — it seals against the lid when closed and glows around the lid edge
 6. Close the lid
 
 ---
