@@ -1,0 +1,6 @@
+# PlatformIO build artefacts
+.pio/
+
+# Config files containing credentials and personal address
+src/config.h
+test_led/src/config.h
