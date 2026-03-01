@@ -157,7 +157,7 @@ On a successful boot you should see:
 === Binfluencer booting ===
 [WiFi] Connected. IP: 192.168.x.x
 [BOOT] Local time: 2026-03-01 19:00:00 GMT
-[API] Found premises: "73 DEVONSHIRE AVENUE" → id=983201
+[API] Found premises: "<<address>>" → id=983201
 [Schedule] Next Recycling:    2026-03-06
 [Schedule] Next General Waste: 2026-03-13
 [BOOT] Setup complete.
