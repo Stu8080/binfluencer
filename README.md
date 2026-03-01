@@ -46,6 +46,8 @@ The housing is a 3D printed miniature wheelie bin. All parts are included in thi
 | `Wheelie Bin - Wheel 1.stl` | PLA | Decorative wheel |
 | `Wheelie Bin - Wheel 2.stl` | PLA | Decorative wheel |
 
+Microcontroller used: SEEED Studio's Xiao ESP32-S3: https://thepihut.com/products/seeed-studio-xiao-esp32s3
+
 ### Assembly
 
 1. Mount the XIAO ESP32-S3 onto the yellow base plate. You can use a little hot glue or double sided tape. Make sure you've wired +Ve and -Ve to 5v and the three data pins for the addressable LED's
